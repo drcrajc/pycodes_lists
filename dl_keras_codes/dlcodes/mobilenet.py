@@ -15,9 +15,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Set the path to the train and test folders
-train_folder = "Train"
-val_folder = "Validation"
-test_folder = "Test"
+train_folder = "train"
+val_folder = "valid"
+test_folder = "test"
 
 # Set the number of classes
 num_classes = 2
